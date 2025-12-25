@@ -1,2 +1,6 @@
 flask
+google-generativeai 
+python-dotenv
+python-docx
+pypdf2
 gunicorn
